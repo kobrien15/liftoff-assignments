@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A self-hosted portal to manage one's finances.  In particular, it should be able to shuffle money between a user's various bank accounts. It will also show one's finances in graphical detail. Most importantly, users will be able to rebalance their portfolios to achieve optimal asset allocation and maximum diversification. 
+
 ### Features
-Include Features here
+1. User Login
+2. Dashboard
+3. Bank API Integration
+
 ### Technologies
-Include Technologies here
+Laravel (PHP)
+mySQL
+Javascript 
+Bootstrap/Material Design 
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Banking APIs
+Charts & Graphs integration
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/ms83Xa3R/liftoff
